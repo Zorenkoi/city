@@ -20,4 +20,6 @@ function createCube(
   return mesh
 }
 
+export const { Group } = THREE
+
 export default createCube
